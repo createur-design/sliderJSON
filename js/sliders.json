@@ -1,0 +1,30 @@
+{
+
+    "results" : [
+        {
+            "id" : 1,
+            "titre" : "coucou",
+            "description" : "ma description",
+            "imageURL" : "/img/2017-11-10-20-54-40-1200x800.jpg",
+            "link" : "http://google.fr"
+        },
+        {
+            "id" : 2,
+            "titre" : "salut",
+            "description" : "ma description 2",
+            "imageURL" : "/img/71689207-adult-llama-lama-glama-face-is-too-close.jpg",
+            "link" : "#"
+        },
+        {
+            "id" : 3,
+            "titre" : "Yop",
+            "description" : "ma 3",
+            "imageURL" : "/img/2017-11-10-20-54-40-1200x800.jpg",
+            "link" : "#"
+        }
+    ],
+    "notes" : {
+        "note" : 5
+    }   
+
+}

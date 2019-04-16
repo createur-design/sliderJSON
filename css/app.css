@@ -1,0 +1,28 @@
+.owl-dot span {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    margin-right: 5px;
+}
+.owl-dot.active span{
+    background-color: blue;
+}
+.bgSlider{
+    height: 400px;
+    /* background-image: url('https://img.20mn.fr/PI3Ol7lgRlGAs1BMQCgmEw/310x190_lama-rentre-game.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.bgSlider div{
+    padding:1rem;
+    margin:0 1rem;
+    background-color: rgba(255, 255, 255, .4);
+}
+.bgSlider div h2{
+    margin-top:0;
+}
